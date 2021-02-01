@@ -1,0 +1,47 @@
+#wrapper{
+width: 1000px
+margin-left: auto;
+margin-right: auto;
+
+}
+
+
+header{
+  height: 100px;
+  width: 800px;
+  background-color:pink;
+
+}
+nav{
+
+  height: 50px
+  width: 800px
+  background-color:pink;
+
+}
+
+main{
+  height:400px;
+  width:600px;
+  background-color:blue;
+
+}
+
+aside{
+  height:100px;
+  width:800px;
+  background-color:green;
+
+}
+
+footer{
+  height:400px;
+  width:300px;
+  background-color:red;
+
+}
+
+#container
+  display:flex;
+
+}
