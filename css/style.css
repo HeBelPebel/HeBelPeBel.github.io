@@ -1,47 +1,41 @@
 #wrapper{
 width: 1000px
 margin-left: auto;
-margin-right: auto;
-
+margin.right: auto;
 }
 
 
 header{
-  height: 100px;
-  width: 800px;
-  background-color:pink;
-
-}
-nav{
-
-  height: 50px
-  width: 800px
-  background-color:pink;
-
+  height:100px;
+  width:1000px;
+  background-color:#CF2500;
 }
 
 main{
-  height:400px;
-  width:600px;
-  background-color:blue;
-
-}
-
-aside{
-  height:100px;
-  width:800px;
-  background-color:green;
+  height:500px;
+  width:1000px;
+  background-color:#00C1C2;
 
 }
 
 footer{
-  height:400px;
-  width:300px;
-  background-color:red;
+  height:500px;
+  width:1000px;
+  background-color:#00C1C2;
+}
+
+section{
+  height:500px;
+  width:1000px;
+  background-color:#CF2500;
 
 }
 
-#container
+#container {
   display:flex;
 
+}
+
+.img-Chassie {
+  float: right;
 }
